@@ -1,10 +1,10 @@
 var typed = new Typed("#element", {
   strings: [
-    "Me chama no Whatsapp 77988526364",
     "interessado",
+    "Me chama no Whatsapp 77988526364",
     "Aceitamos todos os tipo de cartão",
   ],
-  typeSpeed: 50,
+  typeSpeed: 60,
   backSpeed: 100,
   backDelay: 1000,
   loop: true,
