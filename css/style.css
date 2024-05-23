@@ -81,6 +81,11 @@ h4 {
   border-radius: 8px;
 }
 
+.card .img-center {
+  display: flex;
+  justify-content: center;
+}
+
 .card h1 {
   font-size: 20px;
   font-weight: 600;
